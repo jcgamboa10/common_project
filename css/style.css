@@ -55,6 +55,8 @@ a {
 
 #skipToMain {
     text-transform: uppercase;
+    /* position: absolute;
+    left: -500px; */
 }
 
 a:hover {
