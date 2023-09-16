@@ -33,6 +33,13 @@ img {
     border-top-right-radius: 30px;
 }
 
+video {
+    border: solid 5px;
+    margin: 20px;
+    padding: 10px;
+    border-top-right-radius: 30px;
+}
+
 /* NAVIGATION STYLING */
 nav {
     margin: 10px;
@@ -53,7 +60,7 @@ a {
     font-size: large;   
 }
 
-#skipToMain {
+.skipToMain {
     text-transform: uppercase;
     /* position: absolute;
     left: -500px; */
@@ -66,4 +73,10 @@ a:hover {
 /* PARAGRAPH STYLING */
 p {
     line-height: 32px;  
+}
+
+/* Location styling */
+.location {
+    margin-top: 25px;
+    margin-bottom: 50px;
 }
